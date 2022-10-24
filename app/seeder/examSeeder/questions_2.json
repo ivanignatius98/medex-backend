@@ -1,0 +1,288 @@
+[
+  {
+    "description": "Seorang laki-laki 15 tahun mengeluhkan nyeri saat\nmenggerakkan kaki kanan. Riwayat dahulu pernah terjatuh saat\nbermain olahraga sepak bola. Pada pemeriksaan radiologis\ndidapatkan fraktur os tibia dextra dengan gambaran sunburst,\ndiskontinuitas komplit. Jenis patah tulang yang terjadi adalah?",
+    "options": [
+      "Simple",
+      "Transverse",
+      "Patologis",
+      "Comminutive",
+      "Avulsi"
+    ],
+    "correct_answer": "Patologis"
+  },
+  {
+    "description": "Seorang laki-laki usia 58 tahun datang dengan keluhan tidak bisa\n    kencing. Pasien mengatakan sering mengedan untuk bisa\n    kencing. Pada pemeriksaan rectal toucher didapatkan sfingter\n    ani menjepit kuat, prostat teraba kenyal, tidak berdungkul-\n    dungkul, pole atas tidak teraba. Pada pemeriksaan PSA\n    didapatkan hasilnya 3,    6 dan IPSS : 34. Diagnosa ?",
+    "options": [
+      "BPH",
+      "Karsinoma prostat",
+      "Prostatitis",
+      "Ureterolitiasis",
+      "Vesikolitiasis"
+    ],
+    "correct_answer": "BPH"
+  },
+  {
+    "description": "Laki-laki usia 65 tahun datang dengan keluhan sering buang air\n    kecil namun sedikit-sedikit dan perlu usaha untuk mulai BAK.\n    Malam hari sering terbangun untuk BAK. Keluhan nyeri, BAK\n    darah atau pasir disangkal. Pemeriksaan fisik didapatkan TD\n    120/80mmHg, nadi 90x/menit, RR 24x/menit. Pemeriksaan yang\n    sebaiknya dilakukan selanjutnya",
+    "options": [
+      "X - ray",
+      "Colok dubur",
+      "USG",
+      "PSA",
+      "BNO - IVP"
+    ],
+    "correct_answer": "Colok dubur"
+  },
+  {
+    "description": "Anak-anak 1 tahun dibawa ke Puskesmas oleh orang tuanya\n    karena saat kencing air seni tidak keluar dari ujung penis,\n    melainkan di bagian bawah. Pada pemeriksaan fisik didapatkan\n    OUE pada bagian ventral. Diagnosa pada pasien ini adalah?",
+    "options": [
+      "Hipospadia",
+      "Epispadia",
+      "Striktur Uretra",
+      "Ruptur uretra anterior",
+      "Ruptur uretra posterior"
+    ],
+    "correct_answer": "Hipospadia"
+  },
+  {
+    "description": "Seorang pria 40 tahun datang ke IGD dengan keluhan penis yang\n    ereksi selama 4 jam. Nyeri tidak dirasakan. Sebelumnya pasien\n    berhubungan dengan PSK menggunakan obat kuat. Tatalaksana\n    awal pasien ini adalah",
+    "options": [
+      "Kompres dingin",
+      "Kompres hangat",
+      "Lompat - lompat",
+      "Intercavernosal phenylephrine",
+      "Pasang shunt"
+    ],
+    "correct_answer": "Intercavernosal phenylephrine"
+  },
+  {
+    "description": "Laki-laki 38 tahun keluhan nyeri skrotum 3 jam yang lalu,\n    mendadak, sebelumnya tidak pernah mengalami hal ini.\n    Pada pemeriksaan fisik skrotum kanan lebih tinggi dari pada\n    yang kiri. Pemeriksaan penunjang yg dilakukan?",
+    "options": [
+      "Urinalisa",
+      "Tes transiluminasi",
+      "USG doppler",
+      "Biopsi testis",
+      "Uretrografi"
+    ],
+    "correct_answer": "USG doppler"
+  },
+  {
+    "description": "Anak usia 4 bulan diantar orang tuanya dengan keluhan benjolan\n pada kantung kemaluan sejak lahir di sebelah kiri. Benjolan tidak\n nyeri, lunak. Pemeriksaan skrotum kiri lebih besar dari kanan.\n Demam (-), RR dan nadi normal. Pemeriksaan lanjutan yang\n diperlukan?\n ",
+    "options": [
+      "Kehr sign",
+      "Finger test",
+      "Transluminasi",
+      "Digital rectal examination",
+      "Phren test"
+    ],
+    "correct_answer": "Transluminasi"
+  },
+  {
+    "description": "Laki-laki 20 tahun, setelah kecelakaan saat memakai motor\n      merasa perut bagian bawah sakit. Pasien ingin BAK namun tidak\n      bisa. Pemeriksaan fisik pada pubis kiri merah memar, scrotum\n      memar dan uretra keluar darah. Tindakan yang paling tepat\n      dilakukan pada kasus ini adalah?",
+    "options": [
+      "Pasang kateter",
+      "Pungsi suprapubik",
+      "Hentikan perdarahan",
+      "Ureterogram",
+      "Observasi"
+    ],
+    "correct_answer": "Pungsi suprapubik"
+  },
+  {
+    "description": "Pria 28 tahun datang ke IGD dengan keluhan nyeri lengan kanan\n bawah dan riwayat terjatuh 2 jam yang lalu. Pemeriksaan fisik\n didapatkan tanda vital dalam batas normal dan pemeriksaan\n radiologis ditemukan fraktur 1/3 distal os radius dengan angulasi\n ke arah palmar/ventral. Diagnosis paling memungkinkan?\n ",
+    "options": [
+      "Fr. Colles",
+      "Fr. Smith",
+      "Fr. Montegia",
+      "Fr. Galleazi",
+      "Fr. Greenstick"
+    ],
+    "correct_answer": "Fr. Smith"
+  },
+  {
+    "description": "Pria 35 tahun datang ke IGD dengan keluhan sesak mendadak.\n Pasien merupakan seorang perokok lebih dari 10 tahun. Tanda\n vital TD 110/70 mmHg, nadi 100 x/min, nafas 42 x/min, T 37o C.\n Pada pemeriksaan paru didapatkan pergerakan paru kanan\n tertinggal dan perkusi hipersonor. Apakah tatalaksana yang tepat\n pada pasien di atas?\n ",
+    "options": [
+      "WSD",
+      "needle thorakostomy",
+      "foto thoraks",
+      "pasang O2",
+      "pasang infus"
+    ],
+    "correct_answer": "WSD"
+  },
+  {
+    "description": "Seorang laki-laki usia 48 tahun mengeluhkan keluar\n benjolan pada anus. Benjolan awalnya bisa masuk\n sendiri namun sekarang tidak bisa masuk kembali. Pada\n pemeriksaan fisik didapatkan mukosa berwarna merah.\n Diagnosis pasien ini?\n ",
+    "options": [
+      "Hemoroid interna grade II",
+      "Hemoroid interna grade III",
+      "Hemoroid interna grade IV",
+      "Prolapse recti",
+      "Fistula ani"
+    ],
+    "correct_answer": "Hemoroid interna grade IV"
+  },
+  {
+    "description": "Laki 50 tahun datang dengan keluhan nyeri kepala hebat 1 jam yg\n      lalu disertai mual muntah. Pada 3 jam sebelumnya pasien\n      mengalami benturan pada kepala. Pasien sempat pingsan tapi\n      beberapa menit kemudian sadar. Kesadaran sopor, pupil\n      anisokor. Fenomena apakah yg terjadi pada kasus diatas?",
+    "options": [
+      "Lucid interval",
+      "Komosio serebri",
+      "Amnesia",
+      "Demensia",
+      "Delerium"
+    ],
+    "correct_answer": "Lucid interval"
+  },
+  {
+    "description": "Laki-laki 36 th, datang ke RS mengeluh sulit BAK. Setiap kali BAK\n keluarnya hanya keluar menetes, harus mengedan, dan merasa\n tidak puas. PF: CM, TD 120/80, HR 96 x/menit, RR 24 x/menit, S\n 36.7 C. Pemeriksaan RT didapatkan teraba prostat pada arah jam\n 12, pembesaran prostat pada arah jam 11 dan jam 1, konsistensi\n kenyal, dan licin. Usulan pemeriksaan penunjang apa yg tepat?\n ",
+    "options": [
+      "CT scan",
+      "USG Abdomen",
+      "Foto Rontgen",
+      "USG Urologi",
+      "MRI"
+    ],
+    "correct_answer": "USG Urologi"
+  },
+  {
+    "description": "Pria, 43 th dibawa ke IGD RS 3 jam setelah kecelakaan lalu lintas\n dengan penurunan kesadaran dan terdapat jejas di perut bawah.\n TD 70/palpasi, N 121x, RR 23x, suhu 37,5\n\n oC. Ketika dilakukan\n pemeriksaan radiologi dengan kontras, didapatkan ekstravasasi\n ke lumen usus dan perirenal inferior. Diagnosis?\n ",
+    "options": [
+      "Ruptur buli derajat 1",
+      "Ruptur buli derajat 2",
+      "Ruptur buli derajat 3",
+      "Ruptur buli derajat 4",
+      "Ruptur buli derajat 5"
+    ],
+    "correct_answer": "Ruptur buli derajat 5"
+  },
+  {
+    "description": "Perempuan berusia 34 tahun datang ke Puskesmas dengan keluhan\n nyeri disekitar anus sejak 2 hari yang lalu. Pasien merasakan nyeri\n perut bawah dan terasa BAB tidak tuntas. Riwayat berhubungan seks\n anal 2 hari yang lalu. Pemeriksaan tanda vital dalam batas normal,\n palpasi terdapat nyeri tekan, rectal toucher didapatkan ampula rekti\n tidak kolaps, edema mukosa, nyeri tekan, lendir dan darah. Apakah\n diagnosis yang paling mungkin?\n ",
+    "options": [
+      "Proktitis",
+      "Fisura ani",
+      "Hemoroid interna",
+      "Polip rekti",
+      "Fistula ani"
+    ],
+    "correct_answer": "Proktitis"
+  },
+  {
+    "description": "Laki-laki usia 20 tahun ke IGD dengan mengeluh kesakitan\n setelah mengalami kecelakaan lalu lintas. Kesadaran compos\n mentis, TD: 138/80, N 99x, RR: 21x, Suhu 36,7\n\n oC. Pada\n pemeriksaan status lokalis didapatkan patah tulang terbuka\n dengan perdarahan aktif. Tatalaksana awal pada kasus tersebut?\n ",
+    "options": [
+      "Bidai melewati dua sendi",
+      "Bidai diatas patah tulang",
+      "Bidai dibawah patah tulang",
+      "Bebat tekan",
+      "Reposisi dilanjutkan gips sirkular"
+    ],
+    "correct_answer": "Bebat tekan"
+  },
+  {
+    "description": "Laki-laki 15 tahun datang ke IGD diantar oleh keluarganya karena\n mengeluh nyeri pada lutut kanannya, hal tersebut terjadi akibat\n jatuh setelah bermain basket. Pada pemeriksaan didapati\n pergerakan sendi lutut terbatas, tampak bengkak, Mc Murrays\n test (+) & krepitasi (-). Apa diagnosis pada pasien tersebut?\n ",
+    "options": [
+      "Fraktur femur distal",
+      "Meniscus tear",
+      "Tendon Achilles tear",
+      "Fraktur Tibia",
+      "Sprain ankle"
+    ],
+    "correct_answer": "Meniscus tear"
+  },
+  {
+    "description": "Laki-laki, usia 34 tahun, datang dengan keluhan diare, BAB\n      berdarah, dan nyeri perut. Pada pemeriksaan fisik tekanan darah\n      110/70, nadi 80x/m, temp 37,5. Pada pemeriksaan kolonoskopi\n      dijumpai inflamasi kontinu mulai dari rektum sampai kolon\n      sigmoid. Pada histopatologi dijumpai distorsi crypt dan hiperemis\n      di lamina propia. Apa diagnosis pasien?",
+    "options": [
+      "Kolitis ulseratif",
+      "Kolitis pseudomembra",
+      "Chron disease",
+      "Ileus obstruktif",
+      "Ca colon"
+    ],
+    "correct_answer": "Kolitis ulseratif"
+  },
+  {
+    "description": "Seorang laki-laki, 54 th memiliki keluhan BAB berwarna pucat.\n Pasien juga mengatakan lemas dan berat badan turun sebanyak\n 5kg dalam 2 bulan terakhir. Pada pemeriksaan fisik didapatkan\n tanda vital dalam batas normal. Teraba massa pada epigastrium.\n Tidak didapatkan pembesaran hepar. Pemeriksaan penunjang\n apa yang dibutuhkan pada pasien ini?\n ",
+    "options": [
+      "CEA",
+      "PSA",
+      "CA 19-9",
+      "CA 125",
+      "SGOT/SGPT"
+    ],
+    "correct_answer": "CA 19-9"
+  },
+  {
+    "description": "Laki-laki usia 60 tahun datang dengan keluhan nyeri seluruh bagian perut\n      yang disertai dengan mual muntah. Sebelumnya 2 hari yang lalu ia mengalami\n      nyeri ulu hati. Pasien diketahui memiliki riwayat minum obat anti nyeri untuk\n      lututnya. Dari pemeriksaan fisik ditemukan: keadaan umum pasien sangat\n      lemah, suhu 38,6OC dan defans muscular umum di seluruh lapang perut. Pada\n      pemeriksaan lab dan hasil yang didapatkan adalah: Hb 13g/dL, Leukosit 1700,\n      trombosit 355.000. Pada pemeriksaan radiologis ditemukan gambaran free air\n      abdomen pada sub diafragma kanan. Diagnosis yang paling mungkin pada\n      pasien tersebut adalah:",
+    "options": [
+      "Peritonitis primer",
+      "Peritonitis tersier",
+      "Peritonitis appendix",
+      "Peritonitis sekunder e.c. perforasi appendix",
+      "Peritonitis sekunder e.c. perforasi lambung"
+    ],
+    "correct_answer": "Peritonitis sekunder e.c. perforasi lambung"
+  },
+  {
+    "description": "Seorang laki laki berusia 60 tahun datang ke puskesmas dengan keluhan perut\n terasa kembung selama 4 hari yang lalu. Riwayat benjolan pada lipat paha kiri\n dirasakan sejak 1 tahun lalu. Awalnya benjolan menghilang apabila ia\n berbaring namun dalam 5 hari terakhir benjolan menetap. Pemeriksaan tanda\n vital diketahui TD 130/80 mmHg, HR 90 x, RR 24x, suhu 37,7\n\n oC. Pemeriksaan\n abdomen didapatkan perut tampak cembung, nyeri bila ditekan dan\n peristaltik kesan meningkat. Apakah diagnosa yang paling mungkin?\n ",
+    "options": [
+      "Hernia inguinalis lateralis akreta",
+      "Hernia inguinalis lateralis skrotalis",
+      "Hernia inguinalis lateralis strangulata",
+      "Hernia inguinalis lateralis ireponibilis",
+      "Hernia inguinalis lateralis inkarserata"
+    ],
+    "correct_answer": "Hernia inguinalis lateralis strangulata"
+  },
+  {
+    "description": "Seorang laki-laki berusia 20 tahun dibawa keluarganya ke UGD\n dengan keluhan kesulitan BAK setelah terjatuh dari pohon.\n pasien diketahui jatuh dengan terduduk. Dari pemeriksaan fisik\n didapatkan adanya bloody discharge, butterfly hematom\n perineal, dan retensi urin. apakah diagnosis yang paling tepat?\n ",
+    "options": [
+      "ruptur buli-buli",
+      "trauma penis",
+      "trauma skrotum",
+      "ruptur uretra",
+      "striktur uretra"
+    ],
+    "correct_answer": "ruptur uretra"
+  },
+  {
+    "description": "Seorang laki-laki berusia 27 tahun dibawa ke IGD dengan keluhan nyeri perut\n      dan punggung setelah mengalami kecelakaan motor 2 jam sebelumnya.\n      Pemeriksaan tanda vital TD 70/palpasi, HR 120x/, GCS E4V5M6. Pemeriksaan\n      fisik didapatkan konjungtiva anemis, hematom pada punggung di flank kanan.\n      Berdasarkan keterangan saksi, pasien dibonceng, tertabrak motor lain dari\n      belakang, jatuh terbentur trotoar pada bagian belakang pasien. Apakah jenis\n      pemeriksaan penunjang yang tepat?",
+    "options": [
+      "CT-Scan abdomen",
+      "MRI abdomen",
+      "Foto polos abdomen",
+      "FAST ( focused assessment sonography on trauma )",
+      "Pielografi intravena"
+    ],
+    "correct_answer": "FAST ( focused assessment sonography on trauma )"
+  },
+  {
+    "description": "Seorang laki-laki usia 60 tahun mengeluhkan nyeri ulu hati yang\n menjalar ke punggung dan perut sejak 8 hari yang lalu dan\n memberat sejak 2 hari terakhir. Pasien memiliki riwayat\n mengkonsumsi alkohol. TD 145/90, N 101x, RR 18x, Suhu 38oC.\n Dari pemeriksaan penunjang lain, serum lipase 700, serta\n terdapat gambaran ekimosis pada umbilikus. Diagnosis yang\n tepat\n ",
+    "options": [
+      "Kolesistitis akut",
+      "Koledokolithiasis akut",
+      "Appendicitis akut",
+      "Pankreatitis akut",
+      "Hepatitis akut"
+    ],
+    "correct_answer": "Pankreatitis akut"
+  },
+  {
+    "description": "Laki-laki usia 22 tahun datang dengan keluhan gangguan saat\n berjalan sejak mengalami patah tulang 2 tahun yang lalu, saat itu\n disarankan operasi namun pasien tidak mau dan memilih\n berobat ke dukun. Didapatkan kaki tidak bisa dorsofleksi,\n hipoestesi pada punggung kaki. Pemeriksaan rontgen didapatkan\n fraktur pada fibula 1/3 proksimal. Keluhan yang dialami pasien\n dikarenakan\n ",
+    "options": [
+      "Peroneal nerve palsy",
+      "Tibial nerve palsy",
+      "Malunion fracture",
+      "Sindrom kompartemen",
+      "Nonunion fracture"
+    ],
+    "correct_answer": "Nonunion fracture"
+  },
+  {
+    "description": "Seorang laki-laki, usia 30 tahun datang\n dengan keluhan sesak sejak 2 jam yang\n lalu. Pasien riwayat kecelakaan\n tertabrak stang motor. Pada\n pemeriksaan fisik didapatkan TD :\n 90/70 mmhg, HR: 100x/m, RR: 40x/m.\n deviasi trakea ke kiri, pada palpasi dada\n kanan tertinggal, perkusi hipersonor,\n auskultasi didapatkan suara nafas pada\n dada kanan menghilang. Diagnosis ?\n ",
+    "options": [
+      "Pneumothorax",
+      "Hematothorax",
+      "Efusi pleura",
+      "Tamponade jantung",
+      "Tension pneumothorax"
+    ],
+    "correct_answer": "Tension pneumothorax"
+  }
+]
